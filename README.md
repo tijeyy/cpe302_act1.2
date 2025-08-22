@@ -11,4 +11,4 @@ At the end of this exercise, the students are expected to <br>
 HTML CODE at index.html
 
 NETLIFY LINK FOR ACTIVITY 1.2: <br>
-<i>  <i>
+<i> cpe302act1-2.netlify.app <i>
