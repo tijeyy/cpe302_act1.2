@@ -1,7 +1,7 @@
 # cpe302_act1.2
 
-An Introduction to HTML
-
+Beethoven’s Ninth Symphony
+<i> Create a page showing the different sections of the fourth movement of Beethoven’s Ninth Symphony </i>
 
 At the end of this exercise, the students are expected to <br>
 • Learn the basic principles of Web documents <br>
