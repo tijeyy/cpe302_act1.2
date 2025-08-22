@@ -1,6 +1,6 @@
 # cpe302_act1.2
 
-Beethoven’s Ninth Symphony
+Beethoven’s Ninth Symphony <br>
 <i> Create a page showing the different sections of the fourth movement of Beethoven’s Ninth Symphony </i>
 
 At the end of this exercise, the students are expected to <br>
